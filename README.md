@@ -1,5 +1,6 @@
 2D Solo RPG Framework
 This repository serves as a foundation for building a 2D solo RPG. It includes essential features like character selection, enemy spawning, teleportation between zones, and dynamic combat mechanics. Whether you're starting a new game project or looking for a template to build upon, this framework provides a solid base for your development needs.
+![image](https://github.com/user-attachments/assets/d2f6859c-aea4-4dce-844a-89e088a0871c)
 
 Features:
 Character Selection: Choose from multiple character options with different stats and abilities.

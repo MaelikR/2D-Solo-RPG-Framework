@@ -32,8 +32,6 @@ Quests and Dialogue: Expand the framework with a quest system and a dialogue bub
 Getting Started:
 To get started with this project, clone the repository and open it in Unity:
 
-bash
-Copier le code
 git clone https://github.com/your-username/2d-solo-rpg-framework.git
 After cloning, open the project in Unity and press Play to start exploring the features.
 
